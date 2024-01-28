@@ -11,11 +11,6 @@ Make sure you have the following dependencies installed:
 - pandas
 - scikit-learn
 
-You can install them using the following command:
-
-```bash
-pip install pandas scikit-learn
-
 ## Usage
 - Clone the repository
 git clone https://github.com/ojaswaniB/topsis-text-classification.git
