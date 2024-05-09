@@ -1,0 +1,7 @@
+Model,Max_Seq_Length,Batch_Size,Accuracy,F1_Score
+bert-base-uncased,512,32,89.5,0.895
+roberta-base,512,32,91.2,0.912
+distilbert-base-uncased,512,32,87.3,0.873
+xlnet-base-cased,512,32,90.8,0.908
+t5-small,512,16,88.7,0.887
+albert-base-v2,512,32,88.1,0.881

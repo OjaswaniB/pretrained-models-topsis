@@ -1,0 +1,7 @@
+Model,Max_Seq_Length,Batch_Size,Accuracy,F1_Score,TOPSIS_Score,Rank
+bert-base-uncased,512,32,89.5,0.895,0.9675178717349453,3.0
+roberta-base,512,32,91.2,0.912,1.0,1.0
+distilbert-base-uncased,512,32,87.3,0.873,0.9284254714538519,5.0
+xlnet-base-cased,512,32,90.8,0.908,0.9921736798079074,2.0
+t5-small,512,16,88.7,0.887,0.026897011150188877,6.0
+albert-base-v2,512,32,88.1,0.881,0.9422664870136402,4.0
